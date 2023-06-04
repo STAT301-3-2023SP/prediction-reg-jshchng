@@ -8,6 +8,7 @@
 # specify pathway to dataset data/project_dataset.csv
 # if all datasets are too large then use data/*.csv (only ignores CSVs)
 # if you have other file types then use appropriate extension data/*.rds
+attempt_1/results/results.rda
 
 # mac related files
 .DS_Store
